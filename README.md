@@ -1,1 +1,3 @@
 # odin-recipes
+El proyecto actual consiste en realizar una pagina web de 3 recetas, una vez finalizado este proyecto podre haber demostrado lo aprendido hasta el momento, sabiendo realizar una pagina que contendra un titulo, imagenes y tambien contara con un listado de recetas las cuales estaran basadas en enlaces relativos.
+The current project consists of creating a web page with 3 recipes. Once this project is finished, I will be able to demonstrate what I have learned so far, knowing how to create a page that will contain a title, images, and will also have a list of recipes which will be based on relative links.
